@@ -1,0 +1,55 @@
+
+h1, h2 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.all {
+    font-size: 24px;
+    color: orange;
+    font-weight: bold;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.tiny {
+    font-size: 4px;
+}
+
+.center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font {
+    font-family: fantasy;
+}
+
+.styledFont {
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgb(255, 0, 221);
+}
+
+img {
+    padding:5px;
+    border:5px solid purple;
+    background-color:red;
+ }

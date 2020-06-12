@@ -1,0 +1,2 @@
+In the HTML file I added paragraphs to the section about Boo. I added an h1 heading to the title. I added a closing bracket on the main image so that it would display properly.I added list items to the list so that they would show in a list. 
+In the JavaScript file, I added quotations to the Boo facts so that they would display individually. I added quotations around the color pink so that it would work, and I added quotations around the click method in the grow and shrink image function.
